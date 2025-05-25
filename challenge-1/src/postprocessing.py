@@ -10,4 +10,3 @@ Leaderboard Rank: 53
 
 def postprocessing():
     print("This is the file for postprocessing")
-  return 0
