@@ -1,0 +1,11 @@
+{
+  "_comment": "This JSON file containing the ml-metrics",
+  "Name": "Sanjana Sudarsan, Swetha Sriram, Lohithaa K M",
+  "Kaggle Username": "sanjana2409,swethass1280, lohithaakm",
+  "Team Name": "EnviroMinds",
+  "f1 scores": {
+    "_comment": "Here are the f1 scores",
+    "Best ensemble F1": 0.7817,
+    "Threshold": -0.0106
+    }
+}
