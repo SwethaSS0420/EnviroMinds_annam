@@ -6,6 +6,7 @@ This repository contains two challenges for soil type classification using image
 ## Directory Structure
 
 ## Dataset
+<img src="https://github.com/user-attachments/assets/2b572354-161b-4ff9-ba13-9bc9b44625a5" alt="image" height="400"/>
 
 ### Challenge 1:
 - Dataset: [`soil-classification-1`](https://www.kaggle.com/datasets)  
