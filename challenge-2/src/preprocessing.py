@@ -1,7 +1,7 @@
 """
 Team Name: EnviroMinds
 Team Members: Sanjana Sudarsan, Swetha Sriram, Lohithaa K M
-Leaderboard Rank: 29
+Leaderboard Rank: 30
 
 This file handles all preprocessing tasks including:
 - Reading dataset paths and labels
